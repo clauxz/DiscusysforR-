@@ -11,3 +11,5 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
+a=seq(0,1,.001)
+plot(a)
